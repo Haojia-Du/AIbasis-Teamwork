@@ -87,7 +87,7 @@ pku-meal-planner/
 
 ## 开发者
 
-本项目由 [Your Name] 开发
+本项目由 杜浩嘉 开发
 
 ## 许可证
 
